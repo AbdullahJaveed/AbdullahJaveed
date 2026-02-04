@@ -110,11 +110,6 @@ Booking platform with Google Calendar integration for seamless appointment sched
 - 🌟 Open to interesting projects and collaborations
 - 💼 Available for freelance and full-time opportunities
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
-
----
 
 <p align="center">
   <i>💼 Open to opportunities | 🌍 Based in Lahore, Pakistan | 🚀 Let's build something amazing!</i>
