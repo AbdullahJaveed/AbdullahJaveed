@@ -110,6 +110,7 @@ Booking platform with Google Calendar integration for seamless appointment sched
 - 🌟 Open to interesting projects and collaborations
 - 💼 Available for freelance and full-time opportunities
 
+---
 
 <p align="center">
   <i>💼 Open to opportunities | 🌍 Based in Lahore, Pakistan | 🚀 Let's build something amazing!</i>
