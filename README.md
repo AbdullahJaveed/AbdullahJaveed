@@ -11,7 +11,7 @@ I'm a passionate Full-Stack Developer from Lahore, Pakistan, specializing in bui
 - 💼 Built enterprise-level admin portals, e-commerce platforms, and AI-powered applications
 - 🎯 Specialized in React.js, Next.js, Node.js, and MongoDB
 - 📫 Reach me at: **m.abdullahhjaveed@gmail.com**
-- 🌐 Portfolio: [portfolio-bj4d.vercel.app](https://portfolio-bj4d.vercel.app)
+- 🌐 Portfolio: [portfolio-bj4d.vercel.app](https://portfolio-abdullah.vercel.app/)
 
 ---
 
@@ -97,8 +97,8 @@ Booking platform with Google Calendar integration for seamless appointment sched
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bj4d.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-abdullah.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abdullahhjaveed@gmail.com)
 
 ---
